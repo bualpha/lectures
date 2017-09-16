@@ -2,6 +2,8 @@
 
 Sunday lectures ran for the [BU Finance and Investment Club](http://buinvest.org), using the [Quantopian Lecture Series](https://www.quantopian.com/lectures).
 
+To follow along, you'll need to make an account on Quantopian, and to ask any questions on this repository, you'll need a GitHub account.
+
 ### Schedule
 
 These are tentative dates at which the lectures should be completed by. If there are no Quantopian lectures on a topic, an alternative lecture link is provided.
@@ -9,6 +11,11 @@ These are tentative dates at which the lectures should be completed by. If there
 Week 1 - September 17th
 ------------------------
 ```
+  What is Quant Finance?
+    - With some working examples
+
+  Overview of the Fall Lectures
+
   Python & PyData Ecosystem Part 1
     - Intro to the Research Environment
     - Intro to Python

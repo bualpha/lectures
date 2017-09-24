@@ -2,7 +2,16 @@
 
 Sunday lectures ran for the [BU Finance and Investment Club](http://buinvest.org), using the [Quantopian Lecture Series](https://www.quantopian.com/lectures).
 
-To follow along, you'll need to make an account on Quantopian, and to ask any questions on this repository, you'll need a GitHub account.
+**Time:**
+  - 2PM to 3PM
+
+**Location:**
+  - CAS 323A
+
+**Materials:**
+  - A Quantopian account; for notebooks and lecture materials
+  - Curiosity and a willingness to learn
+  - A GitHub account; to ask any questions on this repository
 
 # Schedule
 

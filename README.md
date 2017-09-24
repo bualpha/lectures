@@ -10,25 +10,26 @@ These are tentative dates at which the lectures should be completed by. If there
 
 Week 1 - September 17th
 ------------------------
-```
-  What is Quant Finance?
-    - With some working examples
+**What is Quant Finance?**
+	- With some working examples
 
-  Overview of the Fall Lectures
+**Overview of the Fall Lectures**
 
-  Python & PyData Ecosystem Part 1
-    - Intro to the Research Environment
-    - Intro to Python
-```
+**Python & PyData Ecosystem Part 1**
+  - [Intro to the Research Environment](https://www.quantopian.com/lectures/introduction-to-research)
+  - [Intro to Python](https://www.quantopian.com/lectures/introduction-to-python)
 
 Week 2 - September 24th
 ------------------------
-```
-  Python & PyData Ecosystem Part 2
-    - Numpy
-    - Pandas
-    - Plotting
-```
+**Logistics**
+  - Sign up for the mailing list by emailing [fvargus4@bu.edu](mailto:fvargus4@bu.edu)
+	- Make an account on Quantopian if you haven't done so already
+	- Fill out the survey; sent via email
+
+**Python & PyData Ecosystem Part 2**
+  - [Numpy](https://www.quantopian.com/lectures/introduction-to-numpy)
+  - [Pandas](https://www.quantopian.com/lectures/introduction-to-pandas)
+  - [Plotting](https://www.quantopian.com/lectures/plotting-data)
 
 # Other Resources
 

@@ -1,17 +1,17 @@
-# Fall Curriculum
+# Fall Lectures
 
 Sunday lectures ran for the [BU Finance and Investment Club](http://buinvest.org), using the [Quantopian Lecture Series](https://www.quantopian.com/lectures).
 
 To follow along, you'll need to make an account on Quantopian, and to ask any questions on this repository, you'll need a GitHub account.
 
-### Schedule
+# Schedule
 
 These are tentative dates at which the lectures should be completed by. If there are no Quantopian lectures on a topic, an alternative lecture link is provided.
 
 Week 1 - September 17th
 ------------------------
 **What is Quant Finance?**
-	- With some working examples
+  - With some working examples
 
 **Overview of the Fall Lectures**
 
@@ -23,8 +23,8 @@ Week 2 - September 24th
 ------------------------
 **Logistics**
   - Sign up for the mailing list by emailing [fvargus4@bu.edu](mailto:fvargus4@bu.edu)
-	- Make an account on Quantopian if you haven't done so already
-	- Fill out the survey; sent via email
+  - Make an account on Quantopian if you haven't done so already
+  - Fill out the survey; sent via email
 
 **Python & PyData Ecosystem Part 2**
   - [Numpy](https://www.quantopian.com/lectures/introduction-to-numpy)

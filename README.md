@@ -4,11 +4,12 @@ Sunday lectures ran for the [BU Finance and Investment Club](http://buinvest.org
 
   - **Time:** 2PM to 3PM
   - **Location:** CAS 323A
+  - **Community:** Join our [Slack Chat](https://join.slack.com/t/bufcquant/shared_invite/enQtMjQ5NjQxMTM2OTYyLTRhYWRiM2I1NmEyYzE2NDY5NzNlOGIzNWMxN2I5ZTllZjIyOTQxNjI0NjFjMmNhZTY0MmIxYTRmMjBlZmRiMTg); for BU students only
   - **Materials:**
     - A Quantopian account; for notebooks and lecture materials
     - Curiosity and a willingness to learn
     - A GitHub account; to ask any questions on this repository
-  - **Community:** Join our [Slack Chat](https://join.slack.com/t/bufcquant/shared_invite/enQtMjQ5NjQxMTM2OTYyLTRhYWRiM2I1NmEyYzE2NDY5NzNlOGIzNWMxN2I5ZTllZjIyOTQxNjI0NjFjMmNhZTY0MmIxYTRmMjBlZmRiMTg); for BU students only
+  - **Office Hours:** Wednesdays from 3 to 4:30PM in MCS Master's Lounge (2nd Floor near Room 290)
 
 
 # Schedule

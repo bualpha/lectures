@@ -44,8 +44,8 @@ Week 3 - October 1st
   - Sign up for the Slack Chat using your BU email
 
 **Basics Statistics**
-  - Measures of Central Tendency (Means)
-  - Measures of Dispersion (Variance)
+  - [Measures of Central Tendency (Means)](https://www.quantopian.com/lectures/means)
+  - [Measures of Dispersion (Variance)](https://www.quantopian.com/lectures/variance)
 
 # Other Resources
 

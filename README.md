@@ -2,16 +2,14 @@
 
 Sunday lectures ran for the [BU Finance and Investment Club](http://buinvest.org), using the [Quantopian Lecture Series](https://www.quantopian.com/lectures).
 
-**Time:**
-  - 2PM to 3PM
+  - **Time:** 2PM to 3PM
+  - **Location:** CAS 323A
+  - **Materials:**
+    - A Quantopian account; for notebooks and lecture materials
+    - Curiosity and a willingness to learn
+    - A GitHub account; to ask any questions on this repository
+  - **Community:** Join our [Slack Chat](https://join.slack.com/t/bufcquant/shared_invite/enQtMjQ5NjQxMTM2OTYyLTRhYWRiM2I1NmEyYzE2NDY5NzNlOGIzNWMxN2I5ZTllZjIyOTQxNjI0NjFjMmNhZTY0MmIxYTRmMjBlZmRiMTg); for BU students only
 
-**Location:**
-  - CAS 323A
-
-**Materials:**
-  - A Quantopian account; for notebooks and lecture materials
-  - Curiosity and a willingness to learn
-  - A GitHub account; to ask any questions on this repository
 
 # Schedule
 
@@ -40,11 +38,25 @@ Week 2 - September 24th
   - [Pandas](https://www.quantopian.com/lectures/introduction-to-pandas)
   - [Plotting](https://www.quantopian.com/lectures/plotting-data)
 
+Week 3 - October 1st
+---------------------
+**Logistics**
+  - Sign up for the Slack Chat using your BU email
+
+**Basics Statistics**
+  - Measures of Central Tendency (Means)
+  - Measures of Dispersion (Variance)
+
 # Other Resources
 
-- [PyData Toolbox](https://github.com/ssanderson/pydata-toolbox)
-- [quant-library](https://github.com/bualpha/quant-library)
-- [Quantopian Research Public](https://github.com/quantopian/research_public)
+**Talks**
+  - [PyData Toolbox](https://github.com/ssanderson/pydata-toolbox)
+
+**Quant Library**
+  - https://github.com/bualpha/quant-library
+
+**Quantopian Public Research**
+  - [Quantopian Research Public](https://github.com/quantopian/research_public)
 
 # Contributing
 

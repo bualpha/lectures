@@ -50,7 +50,7 @@ Week 3 - October 1st
 
 Week 4 - October 8th
 --------------------
-** Basic Statistics Part 2**
+**Basic Statistics Part 2**
   - [Linear Regression](https://www.quantopian.com/lectures/linear-regression)
   - [Autocorrelation & AR Models](https://www.quantopian.com/lectures/autocorrelation-and-ar-models)
 

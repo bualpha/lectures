@@ -44,9 +44,15 @@ Week 3 - October 1st
 **Logistics**
   - Sign up for the Slack Chat using your BU email
 
-**Basics Statistics**
+**Basics Statistics Part 1**
   - [Measures of Central Tendency (Means)](https://www.quantopian.com/lectures/means)
   - [Measures of Dispersion (Variance)](https://www.quantopian.com/lectures/variance)
+
+Week 4 - October 8th
+--------------------
+** Basic Statistics Part 2**
+  - [Linear Regression](https://www.quantopian.com/lectures/linear-regression)
+  - [Autocorrelation & AR Models](https://www.quantopian.com/lectures/autocorrelation-and-ar-models)
 
 # Other Resources
 

@@ -2,7 +2,7 @@
 
 Sunday lectures ran for the [BU Finance and Investment Club](http://buinvest.org), using the [Quantopian Lecture Series](https://www.quantopian.com/lectures).
 
-  - **Time:** 2PM to 3PM
+  - **Time:** 2PM to ~3:30PM
   - **Location:** CAS 323A
   - **Community:** Join our [Slack Chat](https://join.slack.com/t/bufcquant/shared_invite/enQtMjQ5NjQxMTM2OTYyLTRhYWRiM2I1NmEyYzE2NDY5NzNlOGIzNWMxN2I5ZTllZjIyOTQxNjI0NjFjMmNhZTY0MmIxYTRmMjBlZmRiMTg); for BU students only
   - **Materials:**
@@ -53,6 +53,18 @@ Week 4 - October 8th
 **Basic Statistics Part 2**
   - [Linear Regression](https://www.quantopian.com/lectures/linear-regression)
   - [Autocorrelation & AR Models](https://www.quantopian.com/lectures/autocorrelation-and-ar-models)
+
+Week 5 - October 15th
+---------------------
+**Intermediate Statistics Part 1**
+  - [Random Variables](https://www.quantopian.com/lectures/random-variables)
+  - [Confidence Intervals](https://www.quantopian.com/lectures/confidence-intervals)
+  - [Hypothesis Testing](https://www.quantopian.com/lectures/hypothesis-testing)
+
+**Bonus:** In your own time; feel free to post questions in Slack
+  - [Residual Analysis](https://www.quantopian.com/lectures/residual-analysis)
+  - [Statistical Moments](https://www.quantopian.com/lectures/statistical-moments)
+
 
 # Other Resources
 

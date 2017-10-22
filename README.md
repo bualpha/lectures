@@ -68,8 +68,8 @@ Week 5 - October 15th
 Week 6 - October 22nd
 ----------------------
 **Intermediate Stat Part 2**
-    - Statistical Moments
-    - p-Hacking & Multiple Comparisons Bias
+  - Statistical Moments
+  - p-Hacking & Multiple Comparisons Bias
 
 Week 7 - October 29th
 ----------------------

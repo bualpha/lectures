@@ -65,6 +65,17 @@ Week 5 - October 15th
   - [Residual Analysis](https://www.quantopian.com/lectures/residual-analysis)
   - [Statistical Moments](https://www.quantopian.com/lectures/statistical-moments)
 
+Week 6 - October 22nd
+----------------------
+**Intermediate Stat Part 2**
+    - Statistical Moments
+    - p-Hacking & Multiple Comparisons Bias
+
+Week 7 - October 29th
+----------------------
+**Advanced Stats Part 1**
+  - Multiple Linear Regression
+  - Spearman Rank Correlation
 
 # Other Resources
 
@@ -83,4 +94,4 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 
 # License
 
-[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+[Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).

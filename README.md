@@ -58,8 +58,6 @@ Week 5 - October 15th
 ---------------------
 **Intermediate Statistics Part 1**
   - [Random Variables](https://www.quantopian.com/lectures/random-variables)
-  - [Confidence Intervals](https://www.quantopian.com/lectures/confidence-intervals)
-  - [Hypothesis Testing](https://www.quantopian.com/lectures/hypothesis-testing)
 
 **Bonus:** In your own time; feel free to post questions in Slack
   - [Residual Analysis](https://www.quantopian.com/lectures/residual-analysis)
@@ -67,15 +65,36 @@ Week 5 - October 15th
 
 Week 6 - October 22nd
 ----------------------
-**Intermediate Stat Part 2**
-  - Statistical Moments
-  - p-Hacking & Multiple Comparisons Bias
+**Intermediate Stat Part 2 Review**
+
+**Bonus:** In your own time; feel free to post questions in Slack
+  - [Statistical Moments](https://www.quantopian.com/lectures/statistical-moments)
 
 Week 7 - October 29th
 ----------------------
+**Intermediate Stats Part 3**
+  - [p-Hacking & Multiple Comparisons Bias](https://www.quantopian.com/lectures/p-hacking-and-multiple-comparisons-bias)
+
+**In your own time:**
+  - [Confidence Intervals](https://www.quantopian.com/lectures/confidence-intervals)
+  - [Hypothesis Testing](https://www.quantopian.com/lectures/hypothesis-testing)
+
+Week 8 - November 5th
+---------------------
 **Advanced Stats Part 1**
-  - Multiple Linear Regression
-  - Spearman Rank Correlation
+  - [Maximum Likelihood Estimation](https://www.quantopian.com/lectures/maximum-likelihood-estimation)
+
+Week 9 - November 12th
+----------------------
+**Advanced Stats Part 1**
+  - [Cointegration & Stationarity](https://www.quantopian.com/lectures/integration-cointegration-and-stationarity)
+
+Week 10 - November 19th
+-----------------------
+**Introduction to Pairs Trading**
+  - [Pairs Trading Introduction](https://www.quantopian.com/lectures/introduction-to-pairs-trading)
+  - Example: Basic Pairs Trading Algorithm
+
 
 # Other Resources
 

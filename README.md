@@ -86,14 +86,20 @@ Week 8 - November 5th
 
 Week 9 - November 12th
 ----------------------
-**Advanced Stats Part 1**
+**Advanced Stats Part 2**
   - [Cointegration & Stationarity](https://www.quantopian.com/lectures/integration-cointegration-and-stationarity)
 
 Week 10 - November 19th
 -----------------------
-**Introduction to Pairs Trading**
+**Pairs Trading Part 1**
   - [Pairs Trading Introduction](https://www.quantopian.com/lectures/introduction-to-pairs-trading)
   - Example: Basic Pairs Trading Algorithm
+
+Week 11 - November 26th
+-----------------------
+**Pairs Trading Part 2**
+  - [Advanced Pairs Trading Algorithm](https://www.quantopian.com/lectures/example-pairs-trading-algorithm)
+	- Work on building a Pairs Trading Algorithm
 
 
 # Other Resources

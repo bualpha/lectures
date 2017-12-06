@@ -33,8 +33,8 @@ Sunday lectures ran for the [BU Finance and Investment Club](http://buinvest.org
 **Goals:** The goals of the semester are to:
   - Learn how to analyze factors and build models to predict returns
   - Construct optimal portfolios that obey given risk tolerances
-	- Deploy our own Long-Short Equity Strategies to [paper trade](https://www.investopedia.com/terms/p/papertrade.asp) into the summer
-	- Learn how to analyze the results of backtest
+  - Deploy our own Long-Short Equity Strategies to [paper trade](https://www.investopedia.com/terms/p/papertrade.asp) into the summer
+  - Learn how to analyze the results of backtest
 
 **Projects:** There will be two projects given out
   - Factor Analysis & Alpha Discovery

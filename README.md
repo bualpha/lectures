@@ -1,4 +1,4 @@
-# Fall Lectures
+# Lectures
 
 Sunday lectures ran for the [BU Finance and Investment Club](http://buinvest.org), using the [Quantopian Lecture Series](https://www.quantopian.com/lectures).
 
@@ -8,99 +8,37 @@ Sunday lectures ran for the [BU Finance and Investment Club](http://buinvest.org
   - **Materials:**
     - A Quantopian account; for notebooks and lecture materials
     - Curiosity and a willingness to learn
-    - A GitHub account; to ask any questions on this repository
-  - **Office Hours:** Wednesdays from 3 to 4:30PM in MCS Master's Lounge (2nd Floor near Room 290)
-
+  - **Office Hours:** TBD
 
 # Schedule
 
-These are tentative dates at which the lectures should be completed by. If there are no Quantopian lectures on a topic, an alternative lecture link is provided.
+### Fall Semester
 
-Week 1 - September 17th
-------------------------
-**What is Quant Finance?**
-  - With some working examples
+**Summary:** In the fall semester we'll focus on learning commonly used methods in Statistics such as Random Variables, Linear Regression, and Hypothesis Testing, as well as some topics more focused on use in Quant Finance such as Residual Analysis, Spearman Rank Correlation, and Cointegration.
 
-**Overview of the Fall Lectures**
+**Goals:** The goals of the semester are to:
+  - Learn how to use analyze datasets and develop hypotheses for usage in algorithms
+  - Work up to building a Pairs Trading Algorithm
+  - Deploy our own Pairs Trading Strategies to [paper trade](https://www.investopedia.com/terms/p/papertrade.asp) into the spring semester
 
-**Python & PyData Ecosystem Part 1**
-  - [Intro to the Research Environment](https://www.quantopian.com/lectures/introduction-to-research)
-  - [Intro to Python](https://www.quantopian.com/lectures/introduction-to-python)
+**Projects:** There will be two projects given out
+  - Economic Hypothesis Testing
+  - Develop a Pairs Trading Algorithm
 
-Week 2 - September 24th
-------------------------
-**Logistics**
-  - Sign up for the mailing list by emailing [fvargus4@bu.edu](mailto:fvargus4@bu.edu)
-  - Make an account on Quantopian if you haven't done so already
-  - Fill out the survey; sent via email
 
-**Python & PyData Ecosystem Part 2**
-  - [Numpy](https://www.quantopian.com/lectures/introduction-to-numpy)
-  - [Pandas](https://www.quantopian.com/lectures/introduction-to-pandas)
-  - [Plotting](https://www.quantopian.com/lectures/plotting-data)
+### Spring Semester
 
-Week 3 - October 1st
----------------------
-**Logistics**
-  - Sign up for the Slack Chat using your BU email
+**Summary:** In the spring semester we'll focus on many ideas from [Modern Portfolio Theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory), such as Asset Pricing, Factor Analysis, and Portfolio Optimization.
 
-**Basics Statistics Part 1**
-  - [Measures of Central Tendency (Means)](https://www.quantopian.com/lectures/means)
-  - [Measures of Dispersion (Variance)](https://www.quantopian.com/lectures/variance)
+**Goals:** The goals of the semester are to:
+  - Learn how to analyze factors and build models to predict returns
+  - Construct optimal portfolios that obey given risk tolerances
+	- Deploy our own Long-Short Equity Strategies to [paper trade](https://www.investopedia.com/terms/p/papertrade.asp) into the summer
+	- Learn how to analyze the results of backtest
 
-Week 4 - October 8th
---------------------
-**Basic Statistics Part 2**
-  - [Linear Regression](https://www.quantopian.com/lectures/linear-regression)
-  - [Autocorrelation & AR Models](https://www.quantopian.com/lectures/autocorrelation-and-ar-models)
-
-Week 5 - October 15th
----------------------
-**Intermediate Statistics Part 1**
-  - [Random Variables](https://www.quantopian.com/lectures/random-variables)
-
-**Bonus:** In your own time; feel free to post questions in Slack
-  - [Residual Analysis](https://www.quantopian.com/lectures/residual-analysis)
-  - [Statistical Moments](https://www.quantopian.com/lectures/statistical-moments)
-
-Week 6 - October 22nd
-----------------------
-**Intermediate Stat Part 2 Review**
-
-**Bonus:** In your own time; feel free to post questions in Slack
-  - [Statistical Moments](https://www.quantopian.com/lectures/statistical-moments)
-
-Week 7 - October 29th
-----------------------
-**Intermediate Stats Part 3**
-  - [p-Hacking & Multiple Comparisons Bias](https://www.quantopian.com/lectures/p-hacking-and-multiple-comparisons-bias)
-
-**In your own time:**
-  - [Confidence Intervals](https://www.quantopian.com/lectures/confidence-intervals)
-  - [Hypothesis Testing](https://www.quantopian.com/lectures/hypothesis-testing)
-
-Week 8 - November 5th
----------------------
-**Advanced Stats Part 1**
-  - [Maximum Likelihood Estimation](https://www.quantopian.com/lectures/maximum-likelihood-estimation)
-
-Week 9 - November 12th
-----------------------
-**Advanced Stats Part 2**
-  - [Cointegration & Stationarity](https://www.quantopian.com/lectures/integration-cointegration-and-stationarity)
-
-Week 10 - November 19th
------------------------
-**Pairs Trading Part 1**
-  - [Pairs Trading Introduction](https://www.quantopian.com/lectures/introduction-to-pairs-trading)
-  - Example: Basic Pairs Trading Algorithm
-
-Week 11 - November 26th
------------------------
-**Pairs Trading Part 2**
-  - [Advanced Pairs Trading Algorithm](https://www.quantopian.com/lectures/example-pairs-trading-algorithm)
-	- Work on building a Pairs Trading Algorithm
-
+**Projects:** There will be two projects given out
+  - Factor Analysis & Alpha Discovery
+  - Develop a Long-Short Equity Algorithm
 
 # Other Resources
 
@@ -115,7 +53,7 @@ Week 11 - November 26th
 
 # Contributing
 
-All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome. Feel free to open up an issue in our [GitHub Issue Tracker](https://github.com/bualpha/fall-curriculum/issues/new)
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome. Feel free to open up an issue in our [GitHub Issue Tracker](https://github.com/bualpha/fall-curriculum/issues/new).
 
 # License
 

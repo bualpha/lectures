@@ -13,10 +13,9 @@ Week 1
   - [Intro to Python](https://www.quantopian.com/lectures/introduction-to-python)
 
 **Logistics**
-  - Sign up for the mailing list by emailing [fvargus4@bu.edu](mailto:fvargus4@bu.edu)
   - Make an account on Quantopian if you haven't done so already
-  - Fill out the survey; sent via email
   - Sign up for the Slack Chat using your BU email
+  - Fill out the survey; sent via Slack
 
 Week 2
 ------------------------

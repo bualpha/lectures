@@ -1,6 +1,20 @@
 # Fall Schedule
 
+**Summary:** In the fall semester we'll focus on learning commonly used methods in Statistics such as Random Variables, Linear Regression, and Hypothesis Testing, as well as some topics more focused on use in Quant Finance such as Residual Analysis, Spearman Rank Correlation, and Cointegration.
+
+**Goals:** The goals of the semester are to:
+  - Learn how to use analyze datasets and develop hypotheses for usage in algorithms
+  - Work up to building a Pairs Trading Algorithm
+  - Deploy our own Pairs Trading Strategies to [paper trade](https://www.investopedia.com/terms/p/papertrade.asp) into the spring semester
+
+**Projects:** There will be two projects given out
+  - Economic Hypothesis Testing
+  - Develop a Pairs Trading Algorithm
+
+
 If there are no Quantopian lectures on a topic, an alternative lecture link is provided.
+
+![alt tag](fall-timeline.png)
 
 Week 1
 ------------------------

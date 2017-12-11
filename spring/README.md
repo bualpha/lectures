@@ -1,6 +1,20 @@
 # WORK IN PROGRESS: Spring Schedule
 
+**Summary:** In the spring semester we'll focus on many ideas from [Modern Portfolio Theory](https://en.wikipedia.org/wiki/Modern_portfolio_theory), such as Asset Pricing, Factor Analysis, and Portfolio Optimization.
+
+**Goals:** The goals of the semester are to:
+  - Learn how to analyze factors and build models to predict returns
+  - Construct optimal portfolios that obey given risk tolerances
+  - Deploy our own Long-Short Equity Strategies to [paper trade](https://www.investopedia.com/terms/p/papertrade.asp) into the summer
+  - Learn how to analyze the results of backtest
+
+**Projects:** There will be two projects given out
+  - Factor Analysis & Alpha Discovery
+  - Develop a Long-Short Equity Algorithm
+
 If there are no Quantopian lectures on a topic, an alternative lecture link is provided.
+
+![alt tag](spring-timeline.png)
 
 Week 1
 ------------------------

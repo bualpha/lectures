@@ -4,7 +4,7 @@ Sunday lectures ran for the [BU Finance and Investment Club](http://buinvest.org
 
   - **Time:** 2PM to ~3:30PM
   - **Location:** COM 213
-  - **Community:** Join our [Slack Chat](https://join.slack.com/t/bufcquant/shared_invite/enQtMjQ5NjQxMTM2OTYyLTRhYWRiM2I1NmEyYzE2NDY5NzNlOGIzNWMxN2I5ZTllZjIyOTQxNjI0NjFjMmNhZTY0MmIxYTRmMjBlZmRiMTg); for BU students only
+  - **Community:** Join our [Slack Chat](https://join.slack.com/t/bufcquant/shared_invite/enQtMzA1OTI5MjEyNjEwLWM3MjY5ODU4NTVmOGNkMWJkYmY3MTExYzQyZjU0NGIzNTAzOGQ2OGFhMjFkNDRmNjJhZDU2ZmFjNDg2YjJjYWM)
   - **Materials:**
     - A Quantopian account; for notebooks and lecture materials
     - Curiosity and a willingness to learn

@@ -3,7 +3,7 @@
 Sunday lectures ran for the [BU Finance and Investment Club](http://buinvest.org), using the [Quantopian Lecture Series](https://www.quantopian.com/lectures).
 
   - **Time:** 2PM to ~3:30PM
-  - **Location:** COM 213
+  - **Location:** CAS 320N
   - **Community:** Join our [Slack Chat](https://join.slack.com/t/bufcquant/shared_invite/enQtMzA1OTI5MjEyNjEwLWM3MjY5ODU4NTVmOGNkMWJkYmY3MTExYzQyZjU0NGIzNTAzOGQ2OGFhMjFkNDRmNjJhZDU2ZmFjNDg2YjJjYWM)
   - **Materials:**
     - A Quantopian account; for notebooks and lecture materials
